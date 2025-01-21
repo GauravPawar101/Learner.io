@@ -1,0 +1,40 @@
+.form-wrapper{
+    box-shadow:hsl(209, 28%, 69%);
+    border-radius: 1%;
+    background-color: #efeef3;
+    z-index: 100;
+}
+form{
+    box-shadow:slategrey;
+    border-radius: 1%;
+    background-color: #efeef3;
+
+}
+.passAg{
+    margin-top: 40px;
+}
+.SignUp{
+    margin:20px;
+    border-bottom: 1px solid #1f3650;
+}
+.left-wala{
+    background-color: #061c36;
+    border-radius: 1%;
+}
+.btn{
+    border-radius: 15%;
+    background-color: hsl(212, 44%, 32%);
+    color: white;
+    padding: 7px 8px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+.btn:hover{
+    color: #1f3650;
+    background-color: white;
+}
+.forgot{
+    margin-top: 4px;
+    margin-left: 190px;
+}
